@@ -14,7 +14,8 @@ dependencies:
   - r-stringr
   - pip
   - pip:
+    - plotly
     - pandas
     - matplotlib
     - numpy
-    - scipy
+    - scikit-learn
